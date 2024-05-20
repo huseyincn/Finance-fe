@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519371548774",
+    "project_id": "financemobile-fc656",
+    "storage_bucket": "financemobile-fc656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519371548774:android:e15b1cb46568d3c93a65a7",
+        "android_client_info": {
+          "package_name": "com.huseyincan.financemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlld4ano2lppd5iABz52UducwNA32xs0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

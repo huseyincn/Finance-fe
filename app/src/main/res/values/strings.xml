@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Finance Mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_portfolio">Portfolio</string>
+    <string name="title_profile">Profile</string>
+    <string name="login_mail">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">Price=</string>
+    <string name="quantity">Quantity=</string>
+    <string name="add_to_portfolio">Add to portfolio</string>
+    <string name="save">Save</string>
+    <string name="portfolios">Portfolios</string>
+    <string name="create_portfolio">Create Portfolio</string>
+    <string name="username">Username</string>
+    <string name="revenue">Revenue</string>
+    <string name="symbol">Symbol</string>
+    <string name="buy_price">Buy Price</string>
+    <string name="quantitypv">Quantity</string>
+    <string name="user_s_portfolios">User\'s Portfolios</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

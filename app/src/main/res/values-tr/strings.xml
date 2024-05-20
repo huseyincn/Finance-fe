@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finans Mobil</string>
+    <string name="title_home">Piyasalar</string>
+    <string name="title_portfolio">Portföyler</string>
+    <string name="title_profile">Profil</string>
+    <string name="login_mail">Kullanıcı Adı</string>
+    <string name="login_password">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+    <string name="register_button">Kaydol</string>
+    <string name="hello_blank_fragment">Boş Sayfa</string>
+    <string name="price">Fiyat=</string>
+    <string name="quantity">Miktar=</string>
+    <string name="add_to_portfolio">Portföy\'e Ekle</string>
+    <string name="save">Kaydet</string>
+    <string name="portfolios">Portföyler</string>
+    <string name="create_portfolio">Portföy Oluştur</string>
+    <string name="username">Kullanıcı</string>
+    <string name="revenue">Kazanç</string>
+    <string name="symbol">Sembol</string>
+    <string name="buy_price">Alış</string>
+    <string name="quantitypv">Miktar</string>
+    <string name="user_s_portfolios">Kullanıcının Portföyleri</string>
+    <string name="sign_out">Çıkış Yap</string>
+</resources>
